@@ -24,7 +24,7 @@ const Home = async () => {
 
             <h1 className="head-text">
               Economize tempo e dinheiro com
-              <span className="text-primary"> ArtemisPrice</span>
+              <span className="text-primary"> Artemis</span>
             </h1>
 
             <p className="mt-6">
